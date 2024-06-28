@@ -1,7 +1,5 @@
 package com.example.Show_Data_10_years_ago.controller;
 
-
-import com.example.Show_Data_10_years_ago.ImageDTO;
 import com.example.Show_Data_10_years_ago.model.Image;
 import com.example.Show_Data_10_years_ago.repository.ImageRepository;
 import com.example.Show_Data_10_years_ago.service.FileStorageService;

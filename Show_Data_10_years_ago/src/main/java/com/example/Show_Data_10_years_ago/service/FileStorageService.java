@@ -1,6 +1,5 @@
 package com.example.Show_Data_10_years_ago.service;
 
-import com.example.Show_Data_10_years_ago.ImageDTO;
 import com.example.Show_Data_10_years_ago.model.Image;
 import com.example.Show_Data_10_years_ago.repository.ImageRepository;
 import org.springframework.beans.factory.annotation.Autowired;
